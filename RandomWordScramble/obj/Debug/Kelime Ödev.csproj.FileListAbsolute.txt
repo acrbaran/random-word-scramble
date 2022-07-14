@@ -1,0 +1,49 @@
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Kelime Ödev.exe.config
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Kelime Ödev.pdb
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime Ödev.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime_Ödev.Form1.resources
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime_Ödev.Properties.Resources.resources
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.CopyComplete
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime Ödev.pdb
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime_Ödev.kelimebul.resources
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime_Ödev.hakkinda.resources
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\obj\Debug\Kelime_Ödev.iletisim.resources
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baran\Desktop\Kelime Ödev\Kelime Ödev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.exe.config
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.pdb
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.Form1.resources
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.hakkinda.resources
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.iletisim.resources
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.kelimebul.resources
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.Properties.Resources.resources
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.CopyComplete
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.pdb
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.exe.config
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\Kelime Ödev.pdb
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csprojAssemblyReference.cache
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.Form1.resources
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.hakkinda.resources
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.iletisim.resources
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.kelimebul.resources
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime_Ödev.Properties.Resources.resources
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.csproj.CopyComplete
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.exe
+C:\Users\baran\Desktop\Proje\Kelime Ödev\Kelime Bul\Kelime Ödev\obj\Debug\Kelime Ödev.pdb
